@@ -11,3 +11,4 @@
 | 2026-11-11 | Why 'just read more' isn't enough, and what helps instead | Contrarian take carousel | "Just get them to read more." Here's why that's not enough. |
 | 2026-11-12 | After-school meltdowns and restraint collapse | Parent POV carousel | Perfect at school. Falls apart the second they get home? |
 | 2026-11-13 | Why decoding effort can leave little left for understanding (reading vs comprehension) | "Read this sentence" experience carousel (vowel-code test) | Your child read the whole page. They can't tell you what it said. |
+| 2026-11-14 | Working memory and multi-step instructions (dyslexia/ADHD), what helps | "Read this once" memory-challenge carousel | Read this once. Then swipe. |
