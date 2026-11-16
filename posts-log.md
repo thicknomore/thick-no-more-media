@@ -13,3 +13,4 @@
 | 2026-11-13 | Why decoding effort can leave little left for understanding (reading vs comprehension) | "Read this sentence" experience carousel (vowel-code test) | Your child read the whole page. They can't tell you what it said. |
 | 2026-11-14 | Working memory and multi-step instructions (dyslexia/ADHD), what helps | "Read this once" memory-challenge carousel | Read this once. Then swipe. |
 | 2026-11-15 | Why homework can take a dyslexic child all evening (hidden effort, end-of-day fatigue), what helps and telling the school | "Teacher sees vs you see" split-view carousel | The teacher sees the worksheet. You see the whole evening. |
+| 2026-11-16 | Verbal processing speed and thinking time: knowing the answer but needing longer to get it out (dyslexia/ADHD), what helps, what to ask school | "Put on the spot" 3-second classroom challenge carousel | They know the answer. They just need 5 more seconds. |
